@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1474151684 source:/home/martin/Dropbox/Public/UTN-FRA/ProgramaciÃ³n I/TPS/TP2/TP_2_Cascara/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474151390 /home/martin/Dropbox/Public/UTN-FRA/ProgramaciÃ³n I/TPS/TP2/TP_2_Cascara/TP_2_Cascara/funciones.h
+
+1474151609 source:/home/martin/Dropbox/Public/UTN-FRA/ProgramaciÃ³n I/TPS/TP2/TP_2_Cascara/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1474216667 source:d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474209692 d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\tp_2_cascara\funciones.h
+
+1474216663 source:d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474405893 source:c:\documents and settings\a\mis documentos\martín\utn.fra\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474406236 source:c:\documents and settings\a\mis documentos\martín\utn.fra\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474405752 c:\documents and settings\a\mis documentos\martín\utn.fra\tp_2_cascara\funciones.h
+
+1474466501 source:d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474466612 d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\v2\funciones.h
+
+1474466644 source:d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\v2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474491247 source:c:\documents and settings\a\mis documentos\martín\utn.fra\tp 2 v2\v2\v2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1474491312 source:c:\documents and settings\a\mis documentos\martín\utn.fra\tp 2 v2\v2\v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474491179 c:\documents and settings\a\mis documentos\martín\utn.fra\tp 2 v2\v2\v2\funciones.h
+
+1474598209 source:d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1474598060 d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\v3\funciones.h
+
+1474598105 source:d:\marto\dropbox\dropbox\public\utn-fra\programación i\tps\tp2\tp_2_cascara\v3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
